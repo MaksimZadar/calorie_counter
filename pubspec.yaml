@@ -30,6 +30,8 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.1
+  equatable: ^2.0.3
+  openfoodfacts: ^1.16.0
 
 
   # The following adds the Cupertino Icons font to your application.
