@@ -33,6 +33,7 @@ dependencies:
   equatable: ^2.0.3
   openfoodfacts: ^1.16.0
   flutter_barcode_scanner: ^2.0.0
+  mobile_scanner: ^1.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
